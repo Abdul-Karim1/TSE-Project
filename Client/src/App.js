@@ -1,3 +1,4 @@
+/*The app.js file is the entry point of our application it include the navbar of our application The routes of multiple pages*/
 import './App.css';
 import Navbar from "./components/navbar";
 import Footer from "./components/Footer";
